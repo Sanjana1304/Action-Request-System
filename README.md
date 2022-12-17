@@ -19,3 +19,9 @@ After meeting with the client it was decided that an action request system would
 - The action request system has easy customer usability and is customer-friendly. 
 - The requests received is visible to all faculty/staff(Admins) in charge of processing the customer requests. 
 - The system is updated to show that as each request is approved or reviewed by a faculty/staff member. 
+
+## Flow Chart
+![tcktprojFlowChart](https://user-images.githubusercontent.com/64159652/208245352-4f2428fa-2baf-4ab2-83fb-fdb5e63a5481.png)
+
+## Use- Case Diagram
+![usecase](https://user-images.githubusercontent.com/64159652/208245391-422e1e7c-35d2-4d93-bfbb-0eff955d76b0.png)
