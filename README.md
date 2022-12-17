@@ -11,10 +11,11 @@ After meeting with the client it was decided that an action request system would
   
 ## Software Justification: 
 -	This action-request system will be created using Java as the main programming language as Java is necessary for building the basis of the system. 
+-	Java Swing for the Graphical User Interface(front- end)
 -	MySQL will be used as a third party database to store data obtained by the action request system. 
 
 
-## Success Criteria: 
-- The action request system should have easy customer usability and should be customer-friendly. 
--	The requests received should be visible to all faculty/staff in charge of processing the customer requests. 
--	The system should be updated to show that as each request is approved or reviewed by a faculty/staff member. 
+## Features: 
+- The action request system has easy customer usability and is customer-friendly. 
+- The requests received is visible to all faculty/staff(Admins) in charge of processing the customer requests. 
+- The system is updated to show that as each request is approved or reviewed by a faculty/staff member. 
