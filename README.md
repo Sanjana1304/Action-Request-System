@@ -5,7 +5,8 @@ The client a product is being developed for is Techsolium Inc. After meeting wit
 
 
 ## Proposed Solution: 
-	After meeting with the client it was decided that an action request system would be created for the client Techsolium Inc.  It was made clear that an action request system was lacking from the company and that it was required to become more efficient. An action request system would allow for the company to receive requests from customers without excessive interaction and time. It would also act as an account for what the customer has requested and would minimize the extra steps currently being taken when receiving a customer request. 
+	
+After meeting with the client it was decided that an action request system would be created for the client Techsolium Inc.  It was made clear that an action request system was lacking from the company and that it was required to become more efficient. An action request system would allow for the company to receive requests from customers without excessive interaction and time. It would also act as an account for what the customer has requested and would minimize the extra steps currently being taken when receiving a customer request. 
   
   
 ## Software Justification: 
