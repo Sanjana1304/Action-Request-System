@@ -25,3 +25,16 @@ After meeting with the client it was decided that an action request system would
 
 ## Use- Case Diagram
 ![usecase](https://user-images.githubusercontent.com/64159652/208245391-422e1e7c-35d2-4d93-bfbb-0eff955d76b0.png)
+
+
+## Obtained Results(Screenshots)
+
+<img width="1027" alt="Screenshot 2022-12-19 at 10 32 18 AM" src="https://user-images.githubusercontent.com/64159652/208351587-8d6de7a9-5c54-418c-9883-7087a5330acf.png">
+
+<img width="1027" alt="Screenshot 2022-12-19 at 10 32 24 AM" src="https://user-images.githubusercontent.com/64159652/208351602-75ec830b-3088-4758-99de-369a64d69407.png">
+
+
+<img width="1027" alt="Screenshot 2022-12-19 at 10 32 27 AM" src="https://user-images.githubusercontent.com/64159652/208351641-c2464eba-1f31-4e6e-81e4-188fa8824465.png">
+
+<img width="1027" alt="Screenshot 2022-12-19 at 10 32 31 AM" src="https://user-images.githubusercontent.com/64159652/208351665-a65e72c0-e803-453b-88e4-83d6e3e6e1c9.png">
+
